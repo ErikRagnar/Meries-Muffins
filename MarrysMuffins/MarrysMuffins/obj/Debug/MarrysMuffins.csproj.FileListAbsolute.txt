@@ -1,0 +1,13 @@
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.exe.config
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.exe
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.pdb
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.csprojResolveAssemblyReference.cache
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.exe
+C:\Users\1749\Desktop\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.pdb
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.exe.config
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.exe
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\bin\Debug\MarrysMuffins.pdb
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.csprojAssemblyReference.cache
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.csproj.CoreCompileInputs.cache
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.exe
+G:\work\Eriks\lenovo\Colladge\C sharp\Mary\MarrysMuffins\MarrysMuffins\obj\Debug\MarrysMuffins.pdb
